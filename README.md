@@ -36,8 +36,9 @@ Data was scraped from [Wikipedia](https://en.wikipedia.org/wiki/List_of_largest_
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Dashboard.PNG)
+![Dashboard](Dashboard\Dashboard.PNG)
 
 ---
 
-### 📬 Created by [Ahmed Reda Diabes](https://www.linkedin.com/in/ahmedredadeabes/)
+### 📬 Created by [Ahmed Reda](www.linkedin.com/in/ahmed-reda-996161226)
+
